@@ -1,0 +1,141 @@
+@import "https://cdn.skypack.dev/ol/ol.css";
+
+html,
+body {
+  margin: 0;
+  height: 100%;
+}
+
+
+    #map {
+        width: 80%; /* Set the desired width */
+        height: 400px; /* Set the desired height */
+        margin: 0 auto; /* Center the map horizontally */
+    }
+
+
+.ol-popup {
+  position: absolute;
+  background-color: white;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.2);
+  padding: 15px;
+  border-radius: 10px;
+  font: 0.9em sans-serif;
+  border: 1px solid #cccccc;
+  bottom: 12px;
+  left: -50px;
+  min-width: 280px;
+}
+.ol-popup:after, .ol-popup:before {
+  top: 100%;
+  border: solid transparent;
+  content: " ";
+  height: 0;
+  width: 0;
+  position: absolute;
+  pointer-events: none;
+}
+.ol-popup:after {
+  border-top-color: white;
+  border-width: 10px;
+  left: 48px;
+  margin-left: -10px;
+}
+.ol-popup:before {
+  border-top-color: #cccccc;
+  border-width: 11px;
+  left: 48px;
+  margin-left: -11px;
+}
+.ol-popup-closer {
+  text-decoration: none;
+  position: absolute;
+  top: 2px;
+  right: 8px;
+}
+.ol-popup-closer:after {
+  content: "✖";
+}
+
+/* Styling the info table */
+#info-table {
+  width: 80%;
+  margin: 20px auto; /* Centering the table */
+  border: 1px solid #ccc;
+  border-radius: 10px;
+  overflow: hidden;
+  background-color: #fff;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+#info-table h2 {
+  text-align: justify;
+  padding: 10px;
+  background-color: #333;
+  color: #fff;
+  border-radius: 10px 10px 0 0;
+}
+
+#info-table table {
+  table-layout: fixed;
+  width: 100%;
+  border-collapse: collapse;
+}
+
+#info-table th, #info-table td {
+  border: 1px solid #ccc;
+  padding: 10px;
+  text-align: justify;
+}
+
+#info-table th {
+  background-color: #f2f2f2;
+}
+
+#info-table td {
+  word-wrap: break-word;
+  font-size: 16px;
+}
+
+#info-table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+#info-table tr:hover {
+  background-color: #e6e6e6;
+}
+
+/* Adjust column widths and enable text wrapping */
+th.name, td.name {
+  width: 150px;
+  white-space: normal;
+}
+
+th.coordinate, td.coordinate {
+  width: 100px;
+  white-space: normal;
+}
+
+th.type, td.type {
+  width: 150px;
+  white-space: normal;
+}
+/* Mengatur style untuk elemen <h1> dan <h2> */
+h1, h2 {
+  text-align: center; /* Pusatkan teks horizontal */
+  color: #333; /* Warna teks */
+  margin: 10px 0; /* Jarak atas dan bawah */
+}
+
+/* Mengatur style khusus untuk elemen <h1> */
+h1 {
+  font-size: 24px; /* Ukuran font */
+  font-weight: bold; /* Ketebalan teks */
+}
+
+/* Mengatur style khusus untuk elemen <h2> dengan class "chapter" */
+h2.chapter {
+  font-size: 18px; /* Ukuran font */
+  font-style: italic; /* Gaya teks miring */
+  color: #666; /* Warna teks yang lebih ringan */
+}
