@@ -92,7 +92,7 @@ export function getURLContentJS(){
         case "crud/get":
             return url.template.content+"geojson/table.html";
         case "map/ch1":
-            return url.template.content+"geojson/ch1.html";
+            return url.template.content+"geojson/ch1/script.js";
         case "map/ch2":
             return url.template.content+"geojson/ch2.html";
         case "map/ch3":
