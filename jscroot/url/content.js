@@ -35,7 +35,7 @@ export function getContentURL(){
         case "map/ch1":
             return url.template.content+"geojson/ch1/index.html";
         case "map/ch2":
-            return url.template.content+"geojson/ch2.html";
+            return url.template.content+"geojson/ch2/index.html";
         case "map/ch3":
             return url.template.content+"geojson/ch3.html";
         case "map/ch4":
@@ -94,7 +94,7 @@ export function getURLContentJS(){
         case "map/ch1":
             return url.template.content+"geojson/ch1/script.js";
         case "map/ch2":
-            return url.template.content+"geojson/ch2.html";
+            return url.template.content+"geojson/ch2/script.js";
         case "map/ch3":
             return url.template.content+"geojson/ch3.html";
         case "map/ch4":
