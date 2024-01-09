@@ -1,9 +1,9 @@
 //lib call
-import {fullPath} from "https://cdn.jsdelivr.net/gh/jscroot/url@0.0.5/croot.js";
+import {folderPath} from "https://cdn.jsdelivr.net/gh/jscroot/url@0.0.9/croot.js";
 //please always use trailing slash(/) for folder or extension for file.
 //never use slash in front of file or directory
 //u might change croot parameter based on your path
-export const croot = fullPath()+"jscroot/";
+export const croot = folderPath()+"jscroot/";
 
 export const folder={
     template:croot+"template/",
