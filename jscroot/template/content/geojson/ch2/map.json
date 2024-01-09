@@ -1,0 +1,5709 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Singapore International Campus"
+        },
+        "geometry": {
+          "coordinates": [
+            103.81030030204028,
+            1.3210423372191826
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Poh Ming Tse Temple"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80968912945741,
+            1.3252790536836585
+          ],
+          "type": "Point"
+        },
+        "id": 1
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bougainvillea Park"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80772514443731,
+            1.3266691026289124
+          ],
+          "type": "Point"
+        },
+        "id": 2
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Crawfurd Hospital"
+        },
+        "geometry": {
+          "coordinates": [
+            103.81332495998663,
+            1.3267485467538052
+          ],
+          "type": "Point"
+        },
+        "id": 3
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Shelford Road Playground"
+        },
+        "geometry": {
+          "coordinates": [
+            103.8105526504886,
+            1.3283249389597103
+          ],
+          "type": "Point"
+        },
+        "id": 4
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kuan Yin San Templer"
+        },
+        "geometry": {
+          "coordinates": [
+            103.81128613262871,
+            1.3247366000091603
+          ],
+          "type": "Point"
+        },
+        "id": 5
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Japanese Association Singapore"
+        },
+        "geometry": {
+          "coordinates": [
+            103.81598788646392,
+            1.3306266289800277
+          ],
+          "type": "Point"
+        },
+        "id": 6
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kheam Hock Park"
+        },
+        "geometry": {
+          "coordinates": [
+            103.81948262520615,
+            1.3303046303456938
+          ],
+          "type": "Point"
+        },
+        "id": 7
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Rain Trees International Kindergarten"
+        },
+        "geometry": {
+          "coordinates": [
+            103.8200437534349,
+            1.329900514829859
+          ],
+          "type": "Point"
+        },
+        "id": 8
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "University Road Park"
+        },
+        "geometry": {
+          "coordinates": [
+            103.81768571585775,
+            1.325441112443741
+          ],
+          "type": "Point"
+        },
+        "id": 9
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jacob Ballas Children's Garden"
+        },
+        "geometry": {
+          "coordinates": [
+            103.81860818572301,
+            1.3214104798605462
+          ],
+          "type": "Point"
+        },
+        "id": 10
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Ethnobotany Garden"
+        },
+        "geometry": {
+          "coordinates": [
+            103.8163715094019,
+            1.3198211821640058
+          ],
+          "type": "Point"
+        },
+        "id": 11
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "C J Koh Law Library"
+        },
+        "geometry": {
+          "coordinates": [
+            103.81818223034514,
+            1.3187468228274781
+          ],
+          "type": "Point"
+        },
+        "id": 12
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "National University of Singapore"
+        },
+        "geometry": {
+          "coordinates": [
+            103.81857252797357,
+            1.3196566516222106
+          ],
+          "type": "Point"
+        },
+        "id": 13
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Rain Forest"
+        },
+        "geometry": {
+          "coordinates": [
+            103.81631188648788,
+            1.3129751667701157
+          ],
+          "type": "Point"
+        },
+        "id": 14
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Forest Discovery Centre"
+        },
+        "geometry": {
+          "coordinates": [
+            103.81068231991287,
+            1.313795269585583
+          ],
+          "type": "Point"
+        },
+        "id": 15
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gallop Valley"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80969916361539,
+            1.3150520894629523
+          ],
+          "type": "Point"
+        },
+        "id": 16
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Empress Road Food Centre"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80567282906799,
+            1.3162216558616535
+          ],
+          "type": "Point"
+        },
+        "id": 17
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Anteroom Coffe Brewers"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80435025302842,
+            1.3158041507129354
+          ],
+          "type": "Point"
+        },
+        "id": 18
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "King's Drive Playground"
+        },
+        "geometry": {
+          "coordinates": [
+            103.8060574077465,
+            1.319099778714289
+          ],
+          "type": "Point"
+        },
+        "id": 19
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Nanyang Primary School"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80809777189057,
+            1.3211323380471782
+          ],
+          "type": "Point"
+        },
+        "id": 20
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Victoria Park"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80194151887287,
+            1.3219274173688973
+          ],
+          "type": "Point"
+        },
+        "id": 21
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Namly Park"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79662851222247,
+            1.32329888007051
+          ],
+          "type": "Point"
+        },
+        "id": 22
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Coronation Park"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79642330613211,
+            1.3219685077897338
+          ],
+          "type": "Point"
+        },
+        "id": 23
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Hwa Chong International School"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80227078744781,
+            1.3286477681959923
+          ],
+          "type": "Point"
+        },
+        "id": 24
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Orchid Village Playground"
+        },
+        "geometry": {
+          "coordinates": [
+            103.8017862119284,
+            1.335747468782884
+          ],
+          "type": "Point"
+        },
+        "id": 25
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Greenwood Crescent Playground"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80550884164853,
+            1.3354848804304993
+          ],
+          "type": "Point"
+        },
+        "id": 26
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Greenwood Fish Market"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80643215053198,
+            1.3318479133237275
+          ],
+          "type": "Point"
+        },
+        "id": 27
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "La Braceria"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80712355246214,
+            1.331695365347315
+          ],
+          "type": "Point"
+        },
+        "id": 28
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Watten Heights Playground"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80866848561675,
+            1.3316333940306038
+          ],
+          "type": "Point"
+        },
+        "id": 29
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Peperoni Pizzeria"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80726809602817,
+            1.3312407019594588
+          ],
+          "type": "Point"
+        },
+        "id": 30
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "NTUC FairPrice"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80983836987554,
+            1.3239174143466101
+          ],
+          "type": "Point"
+        },
+        "id": 31
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Atlas Coffe House"
+        },
+        "geometry": {
+          "coordinates": [
+            103.81200997159829,
+            1.322942568330319
+          ],
+          "type": "Point"
+        },
+        "id": 32
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Curry Work"
+        },
+        "geometry": {
+          "coordinates": [
+            103.8104695950712,
+            1.3233098996263095
+          ],
+          "type": "Point"
+        },
+        "id": 33
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Arcadia Home Rest"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80996006798739,
+            1.3345644752986772
+          ],
+          "type": "Point"
+        },
+        "id": 34
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Hillcrest Arcadia"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80877270777518,
+            1.3349806572592655
+          ],
+          "type": "Point"
+        },
+        "id": 35
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Blue House International School"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79664817408258,
+            1.3362032883597124
+          ],
+          "type": "Point"
+        },
+        "id": 36
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Napoliz Pizza"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79377662910105,
+            1.3374842137141059
+          ],
+          "type": "Point"
+        },
+        "id": 37
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Le Rida"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79033301277087,
+            1.3331689044554054
+          ],
+          "type": "Point"
+        },
+        "id": 38
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Indian Curry House"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79513569083099,
+            1.3314013167384928
+          ],
+          "type": "Point"
+        },
+        "id": 39
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Casuarina Prata"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79500019456356,
+            1.3305814289451945
+          ],
+          "type": "Point"
+        },
+        "id": 40
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sixth Avenue Playground"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79128467478023,
+            1.3224237010724096
+          ],
+          "type": "Point"
+        },
+        "id": 41
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Private Tennis Court"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79712286344625,
+            1.314540907698003
+          ],
+          "type": "Point"
+        },
+        "id": 42
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jade Mansion Tennis Court"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79739612556591,
+            1.3136643670293324
+          ],
+          "type": "Point"
+        },
+        "id": 43
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Holland Village Park"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79565801553525,
+            1.3116477433272564
+          ],
+          "type": "Point"
+        },
+        "id": 44
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Fosters Steakhouse"
+        },
+        "geometry": {
+          "coordinates": [
+            103.7952729290015,
+            1.3118196119070262
+          ],
+          "type": "Point"
+        },
+        "id": 45
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Holland Road Shopping Centre"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79544173233359,
+            1.310409158195128
+          ],
+          "type": "Point"
+        },
+        "id": 46
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Holland Oasis"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79411124416993,
+            1.3067954621384672
+          ],
+          "type": "Point"
+        },
+        "id": 47
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "O&M Dental"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79598966810732,
+            1.311233263541311
+          ],
+          "type": "Point"
+        },
+        "id": 48
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "NTUC FairPrice Finest"
+        },
+        "geometry": {
+          "coordinates": [
+            103.7961375264756,
+            1.3104007652318472
+          ],
+          "type": "Point"
+        },
+        "id": 49
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Singapore International Campus"
+        },
+        "geometry": {
+          "coordinates": [
+            103.81030030204028,
+            1.3210423372191826
+          ],
+          "type": "Point"
+        },
+        "id": 0
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Poh Ming Tse Temple"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80968912945741,
+            1.3252790536836585
+          ],
+          "type": "Point"
+        },
+        "id": 1
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bougainvillea Park"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80772514443731,
+            1.3266691026289124
+          ],
+          "type": "Point"
+        },
+        "id": 2
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Crawfurd Hospital"
+        },
+        "geometry": {
+          "coordinates": [
+            103.81332495998663,
+            1.3267485467538052
+          ],
+          "type": "Point"
+        },
+        "id": 3
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Shelford Road Playground"
+        },
+        "geometry": {
+          "coordinates": [
+            103.8105526504886,
+            1.3283249389597103
+          ],
+          "type": "Point"
+        },
+        "id": 4
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kuan Yin San Templer"
+        },
+        "geometry": {
+          "coordinates": [
+            103.81128613262871,
+            1.3247366000091603
+          ],
+          "type": "Point"
+        },
+        "id": 5
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Japanese Association Singapore"
+        },
+        "geometry": {
+          "coordinates": [
+            103.81598788646392,
+            1.3306266289800277
+          ],
+          "type": "Point"
+        },
+        "id": 6
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kheam Hock Park"
+        },
+        "geometry": {
+          "coordinates": [
+            103.81948262520615,
+            1.3303046303456938
+          ],
+          "type": "Point"
+        },
+        "id": 7
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Rain Trees International Kindergarten"
+        },
+        "geometry": {
+          "coordinates": [
+            103.8200437534349,
+            1.329900514829859
+          ],
+          "type": "Point"
+        },
+        "id": 8
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "University Road Park"
+        },
+        "geometry": {
+          "coordinates": [
+            103.81768571585775,
+            1.325441112443741
+          ],
+          "type": "Point"
+        },
+        "id": 9
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jacob Ballas Children's Garden"
+        },
+        "geometry": {
+          "coordinates": [
+            103.81860818572301,
+            1.3214104798605462
+          ],
+          "type": "Point"
+        },
+        "id": 10
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Ethnobotany Garden"
+        },
+        "geometry": {
+          "coordinates": [
+            103.8163715094019,
+            1.3198211821640058
+          ],
+          "type": "Point"
+        },
+        "id": 61
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "C J Koh Law Library"
+        },
+        "geometry": {
+          "coordinates": [
+            103.81818223034514,
+            1.3187468228274781
+          ],
+          "type": "Point"
+        },
+        "id": 12
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "National University of Singapore"
+        },
+        "geometry": {
+          "coordinates": [
+            103.81857252797357,
+            1.3196566516222106
+          ],
+          "type": "Point"
+        },
+        "id": 13
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Rain Forest"
+        },
+        "geometry": {
+          "coordinates": [
+            103.81631188648788,
+            1.3129751667701157
+          ],
+          "type": "Point"
+        },
+        "id": 14
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Forest Discovery Centre"
+        },
+        "geometry": {
+          "coordinates": [
+            103.81068231991287,
+            1.313795269585583
+          ],
+          "type": "Point"
+        },
+        "id": 15
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gallop Valley"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80969916361539,
+            1.3150520894629523
+          ],
+          "type": "Point"
+        },
+        "id": 16
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Empress Road Food Centre"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80567282906799,
+            1.3162216558616535
+          ],
+          "type": "Point"
+        },
+        "id": 17
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Anteroom Coffe Brewers"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80435025302842,
+            1.3158041507129354
+          ],
+          "type": "Point"
+        },
+        "id": 18
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "King's Drive Playground"
+        },
+        "geometry": {
+          "coordinates": [
+            103.8060574077465,
+            1.319099778714289
+          ],
+          "type": "Point"
+        },
+        "id": 19
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Nanyang Primary School"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80809777189057,
+            1.3211323380471782
+          ],
+          "type": "Point"
+        },
+        "id": 20
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Victoria Park"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80194151887287,
+            1.3219274173688973
+          ],
+          "type": "Point"
+        },
+        "id": 21
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Namly Park"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79662851222247,
+            1.32329888007051
+          ],
+          "type": "Point"
+        },
+        "id": 22
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Coronation Park"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79642330613211,
+            1.3219685077897338
+          ],
+          "type": "Point"
+        },
+        "id": 23
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Hwa Chong International School"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80227078744781,
+            1.3286477681959923
+          ],
+          "type": "Point"
+        },
+        "id": 24
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Orchid Village Playground"
+        },
+        "geometry": {
+          "coordinates": [
+            103.8017862119284,
+            1.335747468782884
+          ],
+          "type": "Point"
+        },
+        "id": 25
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Greenwood Crescent Playground"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80550884164853,
+            1.3354848804304993
+          ],
+          "type": "Point"
+        },
+        "id": 26
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Greenwood Fish Market"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80643215053198,
+            1.3318479133237275
+          ],
+          "type": "Point"
+        },
+        "id": 27
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "La Braceria"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80712355246214,
+            1.331695365347315
+          ],
+          "type": "Point"
+        },
+        "id": 28
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Watten Heights Playground"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80866848561675,
+            1.3316333940306038
+          ],
+          "type": "Point"
+        },
+        "id": 29
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Peperoni Pizzeria"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80726809602817,
+            1.3312407019594588
+          ],
+          "type": "Point"
+        },
+        "id": 30
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "NTUC FairPrice"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80983836987554,
+            1.3239174143466101
+          ],
+          "type": "Point"
+        },
+        "id": 31
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Atlas Coffe House"
+        },
+        "geometry": {
+          "coordinates": [
+            103.81200997159829,
+            1.322942568330319
+          ],
+          "type": "Point"
+        },
+        "id": 82
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Curry Work"
+        },
+        "geometry": {
+          "coordinates": [
+            103.8104695950712,
+            1.3233098996263095
+          ],
+          "type": "Point"
+        },
+        "id": 33
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Arcadia Home Rest"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80996006798739,
+            1.3345644752986772
+          ],
+          "type": "Point"
+        },
+        "id": 34
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Hillcrest Arcadia"
+        },
+        "geometry": {
+          "coordinates": [
+            103.80877270777518,
+            1.3349806572592655
+          ],
+          "type": "Point"
+        },
+        "id": 35
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Blue House International School"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79664817408258,
+            1.3362032883597124
+          ],
+          "type": "Point"
+        },
+        "id": 36
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Napoliz Pizza"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79377662910105,
+            1.3374842137141059
+          ],
+          "type": "Point"
+        },
+        "id": 37
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Le Rida"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79033301277087,
+            1.3331689044554054
+          ],
+          "type": "Point"
+        },
+        "id": 38
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Indian Curry House"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79513569083099,
+            1.3314013167384928
+          ],
+          "type": "Point"
+        },
+        "id": 39
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Casuarina Prata"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79500019456356,
+            1.3305814289451945
+          ],
+          "type": "Point"
+        },
+        "id": 40
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sixth Avenue Playground"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79128467478023,
+            1.3224237010724096
+          ],
+          "type": "Point"
+        },
+        "id": 41
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Private Tennis Court"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79712286344625,
+            1.314540907698003
+          ],
+          "type": "Point"
+        },
+        "id": 42
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jade Mansion Tennis Court"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79739612556591,
+            1.3136643670293324
+          ],
+          "type": "Point"
+        },
+        "id": 43
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Holland Village Park"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79565801553525,
+            1.3116477433272564
+          ],
+          "type": "Point"
+        },
+        "id": 44
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Fosters Steakhouse"
+        },
+        "geometry": {
+          "coordinates": [
+            103.7952729290015,
+            1.3118196119070262
+          ],
+          "type": "Point"
+        },
+        "id": 45
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Holland Road Shopping Centre"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79544173233359,
+            1.310409158195128
+          ],
+          "type": "Point"
+        },
+        "id": 46
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Holland Oasis"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79411124416993,
+            1.3067954621384672
+          ],
+          "type": "Point"
+        },
+        "id": 47
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "O&M Dental"
+        },
+        "geometry": {
+          "coordinates": [
+            103.79598966810732,
+            1.311233263541311
+          ],
+          "type": "Point"
+        },
+        "id": 48
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "NTUC FairPrice Finest"
+        },
+        "geometry": {
+          "coordinates": [
+            103.7961375264756,
+            1.3104007652318472
+          ],
+          "type": "Point"
+        },
+        "id": 49
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pibo's Garden playschool"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.81459803173277,
+                1.3238236948201632
+              ],
+              [
+                103.81449666631073,
+                1.323618790860678
+              ],
+              [
+                103.81461808203545,
+                1.3235575423915549
+              ],
+              [
+                103.81471165011874,
+                1.3237657871813582
+              ],
+              [
+                103.81459803173277,
+                1.3238236948201632
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 100
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Adam Food Centre"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.81402253926456,
+                1.3242477577648941
+              ],
+              [
+                103.81399614389778,
+                1.3241320551352231
+              ],
+              [
+                103.81405705628566,
+                1.3240407109502002
+              ],
+              [
+                103.81414334883516,
+                1.3240031583394511
+              ],
+              [
+                103.81423370221097,
+                1.3240254869186003
+              ],
+              [
+                103.81428344732694,
+                1.3240752187533928
+              ],
+              [
+                103.81429969063049,
+                1.3241726525500042
+              ],
+              [
+                103.81424588468815,
+                1.32427719088939
+              ],
+              [
+                103.81412202949826,
+                1.3243076389485537
+              ],
+              [
+                103.81402253926456,
+                1.3242477577648941
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 101
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sinopec Bukit Timah"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.80861207541648,
+                1.3249126503406927
+              ],
+              [
+                103.80852267149066,
+                1.3247890079721287
+              ],
+              [
+                103.8085465125377,
+                1.3247711319656617
+              ],
+              [
+                103.80849585031376,
+                1.3246921796062026
+              ],
+              [
+                103.80863740652967,
+                1.324586413231998
+              ],
+              [
+                103.80870743960463,
+                1.3246862209367265
+              ],
+              [
+                103.8086850886225,
+                1.3247070762772637
+              ],
+              [
+                103.80875661176367,
+                1.3248083736438474
+              ],
+              [
+                103.80861207541648,
+                1.3249126503406927
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 102
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Carpe Diem Kids Academy"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.80703243531923,
+                1.3278834714835455
+              ],
+              [
+                103.8069235541792,
+                1.3277353615152094
+              ],
+              [
+                103.8069949516489,
+                1.3276853967052915
+              ],
+              [
+                103.80709847797891,
+                1.3278370755911197
+              ],
+              [
+                103.80703243531923,
+                1.3278834714835455
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 103
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Watten Residences"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.80857654297142,
+                1.3289917150111563
+              ],
+              [
+                103.80804519042334,
+                1.3282839802545539
+              ],
+              [
+                103.80818579448248,
+                1.3281679313477497
+              ],
+              [
+                103.80851605052703,
+                1.3286108785501085
+              ],
+              [
+                103.80848008204703,
+                1.32864356837824
+              ],
+              [
+                103.80868117855067,
+                1.3289116249449222
+              ],
+              [
+                103.80857654297142,
+                1.3289917150111563
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 104
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Eat Organic"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.80909366235068,
+                1.3246935977591932
+              ],
+              [
+                103.80898561877643,
+                1.3245330621488876
+              ],
+              [
+                103.80945545963851,
+                1.3242109999351044
+              ],
+              [
+                103.8095674681133,
+                1.3243675717240109
+              ],
+              [
+                103.80909366235068,
+                1.3246935977591932
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 105
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Priya Sen Skin & Laser Centre"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.81371373066577,
+                1.3226965970633842
+              ],
+              [
+                103.81364273471178,
+                1.3226603199106393
+              ],
+              [
+                103.81359698176487,
+                1.3226208882232555
+              ],
+              [
+                103.81356858338302,
+                1.3225641065922815
+              ],
+              [
+                103.81355596188013,
+                1.3223259391797768
+              ],
+              [
+                103.81385887794858,
+                1.3223022801634556
+              ],
+              [
+                103.81386361101198,
+                1.3225167885653235
+              ],
+              [
+                103.81388254326566,
+                1.3226808243882573
+              ],
+              [
+                103.81371373066577,
+                1.3226965970633842
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 106
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Siena"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.8117442851692,
+                1.3211171558779
+              ],
+              [
+                103.81143833993565,
+                1.3207686132620893
+              ],
+              [
+                103.81156403836547,
+                1.3206524323795605
+              ],
+              [
+                103.8118865852772,
+                1.3209914908580913
+              ],
+              [
+                103.8117442851692,
+                1.3211171558779
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 107
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bukit Timah Neighbourhood Police Centre"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.81236505587418,
+                1.3227941111404533
+              ],
+              [
+                103.81232333448946,
+                1.3228278765937915
+              ],
+              [
+                103.81220413053461,
+                1.322702745794757
+              ],
+              [
+                103.8122796263728,
+                1.3226272700719477
+              ],
+              [
+                103.81236704260613,
+                1.322716649217
+              ],
+              [
+                103.81236704260613,
+                1.3225815873964706
+              ],
+              [
+                103.81250214042342,
+                1.322569670177046
+              ],
+              [
+                103.8125120740849,
+                1.3228239041871603
+              ],
+              [
+                103.81237697626926,
+                1.3228278765937915
+              ],
+              [
+                103.81236505587418,
+                1.3227941111404533
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 108
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Asana"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.81098872981926,
+                1.3221843994887337
+              ],
+              [
+                103.8109643469815,
+                1.3221565408086917
+              ],
+              [
+                103.81091906456737,
+                1.3221983288294012
+              ],
+              [
+                103.8108441744219,
+                1.322111270450165
+              ],
+              [
+                103.81097131350589,
+                1.321989388712879
+              ],
+              [
+                103.81107755301514,
+                1.3221077881145078
+              ],
+              [
+                103.81098872981926,
+                1.3221843994887337
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 109
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "King's Arcade"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.81066441408854,
+                1.323613128931953
+              ],
+              [
+                103.81057946137616,
+                1.323518762213297
+              ],
+              [
+                103.81076824518368,
+                1.3233621134506848
+              ],
+              [
+                103.81054170461357,
+                1.3230846752578032
+              ],
+              [
+                103.81067385327913,
+                1.322965773165123
+              ],
+              [
+                103.81099289791479,
+                1.3233432401055012
+              ],
+              [
+                103.81066441408854,
+                1.323613128931953
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 110
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "One Duchess"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.80846761505,
+                1.3250291062803683
+              ],
+              [
+                103.80827937560508,
+                1.3247690074971246
+              ],
+              [
+                103.80837885173406,
+                1.3247016878080018
+              ],
+              [
+                103.80856249997316,
+                1.3249617865983083
+              ],
+              [
+                103.80846761505,
+                1.3250291062803683
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 111
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Tresor"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.80676645852975,
+                1.3243339083585113
+              ],
+              [
+                103.80668009378962,
+                1.3242043958489802
+              ],
+              [
+                103.80731873831644,
+                1.3237499659370542
+              ],
+              [
+                103.80740737581215,
+                1.323879478470289
+              ],
+              [
+                103.80676645852975,
+                1.3243339083585113
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 112
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Duchess royale"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.8060778133642,
+                1.3243566298503282
+              ],
+              [
+                103.80602553996971,
+                1.3241180541722315
+              ],
+              [
+                103.80622781528257,
+                1.3240748833327416
+              ],
+              [
+                103.80628236143457,
+                1.324295281820838
+              ],
+              [
+                103.8060778133642,
+                1.3243566298503282
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 113
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Coronation Gardens"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.80633008980152,
+                1.3234704918902906
+              ],
+              [
+                103.80627099813643,
+                1.3233273464352209
+              ],
+              [
+                103.80634827185224,
+                1.3232909920323266
+              ],
+              [
+                103.80635281736534,
+                1.3233159856841468
+              ],
+              [
+                103.80644600037425,
+                1.3232841755819322
+              ],
+              [
+                103.80649827376874,
+                1.3234045995391028
+              ],
+              [
+                103.80633008980152,
+                1.3234704918902906
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 114
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lutheran Towers"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.81256277388627,
+                1.3218479174732352
+              ],
+              [
+                103.8124770303944,
+                1.3218081932578656
+              ],
+              [
+                103.81248539561233,
+                1.3217705597894707
+              ],
+              [
+                103.8123933782066,
+                1.3217266540768406
+              ],
+              [
+                103.81242893038751,
+                1.3216346611511653
+              ],
+              [
+                103.8124916695279,
+                1.3216597501312464
+              ],
+              [
+                103.8125104912695,
+                1.3216409333968073
+              ],
+              [
+                103.81265060868401,
+                1.3217036558459512
+              ],
+              [
+                103.81264224346438,
+                1.3217287448253074
+              ],
+              [
+                103.81272589565219,
+                1.3217601060489557
+              ],
+              [
+                103.81268197825335,
+                1.3218562804658944
+              ],
+              [
+                103.81257323041001,
+                1.32182073774662
+              ],
+              [
+                103.81256277388627,
+                1.3218479174732352
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 115
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SPC Adam Road"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.8137837471474,
+                1.3282832409898475
+              ],
+              [
+                103.81365832024954,
+                1.3283064619522236
+              ],
+              [
+                103.81363277032602,
+                1.3281415931183886
+              ],
+              [
+                103.8137674881043,
+                1.328116050058938
+              ],
+              [
+                103.8137837471474,
+                1.3282832409898475
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 116
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Raffles Girls' Primary School"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.80671092639068,
+                1.3303032382146824
+              ],
+              [
+                103.80662438449735,
+                1.3303062216139097
+              ],
+              [
+                103.8066184160902,
+                1.3303360556022596
+              ],
+              [
+                103.80580969701373,
+                1.3303241220066582
+              ],
+              [
+                103.80581268121733,
+                1.3302525204335183
+              ],
+              [
+                103.80578880759134,
+                1.3302435702355808
+              ],
+              [
+                103.80578880759134,
+                1.3300854500849795
+              ],
+              [
+                103.80581864962443,
+                1.330079483287264
+              ],
+              [
+                103.80580969701373,
+                1.3300287655002165
+              ],
+              [
+                103.80561273960114,
+                1.3300048983061004
+              ],
+              [
+                103.80557394495867,
+                1.3300227987023305
+              ],
+              [
+                103.80544264001696,
+                1.329810977347563
+              ],
+              [
+                103.8056008027882,
+                1.3297125251613409
+              ],
+              [
+                103.80573210772991,
+                1.3299243465258144
+              ],
+              [
+                103.80568137627563,
+                1.3299720809141462
+              ],
+              [
+                103.8066214002938,
+                1.3299810311130074
+              ],
+              [
+                103.8066124476843,
+                1.3300048983061004
+              ],
+              [
+                103.80671987900007,
+                1.3300048983061004
+              ],
+              [
+                103.80671689479777,
+                1.3301093172783283
+              ],
+              [
+                103.80645428491306,
+                1.3301242342743507
+              ],
+              [
+                103.80645130070951,
+                1.3302047860493644
+              ],
+              [
+                103.80671092639068,
+                1.330213736246165
+              ],
+              [
+                103.80671092639068,
+                1.3303032382146824
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 117
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The White House"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.79938250606068,
+                1.3309674253394803
+              ],
+              [
+                103.79931232473461,
+                1.3307739472220703
+              ],
+              [
+                103.79937399923227,
+                1.3307463074893775
+              ],
+              [
+                103.79939951971562,
+                1.3307739472220703
+              ],
+              [
+                103.79949096811089,
+                1.3307441813558398
+              ],
+              [
+                103.79954626248815,
+                1.3309036413464952
+              ],
+              [
+                103.79938250606068,
+                1.3309674253394803
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 118
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Etonhouse Pre-School"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.7982000356401,
+                1.3313034811853441
+              ],
+              [
+                103.79816175491777,
+                1.3311801654804896
+              ],
+              [
+                103.7983127511045,
+                1.3311355166897414
+              ],
+              [
+                103.79835741194898,
+                1.3312396972010845
+              ],
+              [
+                103.7982000356401,
+                1.3313034811853441
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 119
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "QQ House"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.79662684810683,
+                1.330986687054022
+              ],
+              [
+                103.79655454007457,
+                1.330763443073053
+              ],
+              [
+                103.79688843305166,
+                1.330646505741015
+              ],
+              [
+                103.79693947401654,
+                1.3308038396044566
+              ],
+              [
+                103.79690757341285,
+                1.3308208486702569
+              ],
+              [
+                103.79692671377398,
+                1.330882506532049
+              ],
+              [
+                103.79662684810683,
+                1.330986687054022
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 120
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "BRMC Little Lights Preschool - Vanda"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.79825355139616,
+                1.3315357701939234
+              ],
+              [
+                103.79822590420667,
+                1.3314677339507455
+              ],
+              [
+                103.79825780481042,
+                1.3314592294200907
+              ],
+              [
+                103.79823653774122,
+                1.3314060761027093
+              ],
+              [
+                103.79834712649762,
+                1.3313571750502007
+              ],
+              [
+                103.79837264698097,
+                1.3314167067664755
+              ],
+              [
+                103.7983896606359,
+                1.331410328368591
+              ],
+              [
+                103.79840880099704,
+                1.331480490746216
+              ],
+              [
+                103.79825355139616,
+                1.3315357701939234
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 121
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Gallop Stable"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.79659457567203,
+                1.333782441494563
+              ],
+              [
+                103.79657159782914,
+                1.333772869986845
+              ],
+              [
+                103.79655627926667,
+                1.3337881843988413
+              ],
+              [
+                103.79626714140187,
+                1.3336465260853458
+              ],
+              [
+                103.79630543780723,
+                1.333556553908437
+              ],
+              [
+                103.79660223495239,
+                1.3336886407198705
+              ],
+              [
+                103.7965926608523,
+                1.3337039551324636
+              ],
+              [
+                103.79662138315581,
+                1.3337192695448863
+              ],
+              [
+                103.79659457567203,
+                1.333782441494563
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 122
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Cavern"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.79592732954103,
+                1.333738190420931
+              ],
+              [
+                103.79587945903404,
+                1.333713304501444
+              ],
+              [
+                103.79592349990003,
+                1.333586960596051
+              ],
+              [
+                103.79598668896949,
+                1.3336137608186505
+              ],
+              [
+                103.79592732954103,
+                1.333738190420931
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 123
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Happy Fish"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.7965132645511,
+                1.3339487635794
+              ],
+              [
+                103.79622795632724,
+                1.3338224196869248
+              ],
+              [
+                103.7962700823735,
+                1.3337477619287625
+              ],
+              [
+                103.79655156095635,
+                1.3338664486201424
+              ],
+              [
+                103.7965132645511,
+                1.3339487635794
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 124
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Speed Fitness"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.79618200091181,
+                1.3346934269033426
+              ],
+              [
+                103.795996263343,
+                1.3346091976679304
+              ],
+              [
+                103.79603264492863,
+                1.334530711331368
+              ],
+              [
+                103.79621838249739,
+                1.3346130262691958
+              ],
+              [
+                103.79618200091181,
+                1.3346934269033426
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 125
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Brazilian Cultural Center"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.79628923084721,
+                1.3344503106919063
+              ],
+              [
+                103.79609966363898,
+                1.3343679957494174
+              ],
+              [
+                103.79613221558355,
+                1.334283766502054
+              ],
+              [
+                103.79633327171479,
+                1.3343641671469015
+              ],
+              [
+                103.79628923084721,
+                1.3344503106919063
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 126
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Alpha Indoor Gold"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.796199234119,
+                1.3338147628201966
+              ],
+              [
+                103.7960211558322,
+                1.3337305335538616
+              ],
+              [
+                103.79605179295697,
+                1.3336463042854945
+              ],
+              [
+                103.79623561570457,
+                1.3337305335538616
+              ],
+              [
+                103.796199234119,
+                1.3338147628201966
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 127
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Stronghold mixed martial arts"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.79614370433166,
+                1.3339372781106817
+              ],
+              [
+                103.79595988158252,
+                1.333851134547757
+              ],
+              [
+                103.79600009280904,
+                1.3337573337756652
+              ],
+              [
+                103.79618774519759,
+                1.3338453916436066
+              ],
+              [
+                103.79614370433166,
+                1.3339372781106817
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 128
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Das kleine Haus"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.79608434490166,
+                1.3340693649017226
+              ],
+              [
+                103.79590052215411,
+                1.3339832213433738
+              ],
+              [
+                103.79594073338063,
+                1.3338970777812165
+              ],
+              [
+                103.79612838576912,
+                1.3339832213433738
+              ],
+              [
+                103.79608434490166,
+                1.3340693649017226
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 129
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Archery Academy"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.7960129916109,
+                1.334457988802086
+              ],
+              [
+                103.79596863524387,
+                1.334443642104688
+              ],
+              [
+                103.79599603182311,
+                1.334388863803909
+              ],
+              [
+                103.79603516979557,
+                1.3344019062568009
+              ],
+              [
+                103.7960129916109,
+                1.334457988802086
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 130
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Impressions Art Studio"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.79558767490533,
+                1.3349945165766854
+              ],
+              [
+                103.7955015713685,
+                1.334955389227261
+              ],
+              [
+                103.79554070933881,
+                1.334879743018945
+              ],
+              [
+                103.7956333358722,
+                1.3349149576336714
+              ],
+              [
+                103.79563464047197,
+                1.3349149576336714
+              ],
+              [
+                103.79558767490533,
+                1.3349945165766854
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 131
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "PasarBella"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.7930808446327,
+                1.3394711289178929
+              ],
+              [
+                103.79273845648106,
+                1.3393215548053803
+              ],
+              [
+                103.79281901839943,
+                1.3391230814506514
+              ],
+              [
+                103.79279600070845,
+                1.3391230814506514
+              ],
+              [
+                103.79282765003325,
+                1.3390684293646586
+              ],
+              [
+                103.79284542950137,
+                1.339077058642573
+              ],
+              [
+                103.79295639703969,
+                1.3388244993988536
+              ],
+              [
+                103.79293514793551,
+                1.3387985353620877
+              ],
+              [
+                103.79296820209515,
+                1.3387371658218399
+              ],
+              [
+                103.79298709018667,
+                1.3387513280241876
+              ],
+              [
+                103.79313111188458,
+                1.338430318096556
+              ],
+              [
+                103.79317833211235,
+                1.3384444803006659
+              ],
+              [
+                103.79319722020387,
+                1.338409074791727
+              ],
+              [
+                103.79327749459321,
+                1.3384350388316193
+              ],
+              [
+                103.79325860650175,
+                1.3384822461766106
+              ],
+              [
+                103.79328929965067,
+                1.3384964083794273
+              ],
+              [
+                103.79327277256988,
+                1.3385436157232249
+              ],
+              [
+                103.79346637550628,
+                1.3386309493061503
+              ],
+              [
+                103.7930808446327,
+                1.3394711289178929
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 132
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Rider's Lodge"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.79526657024559,
+                1.3348154217056134
+              ],
+              [
+                103.79513902339829,
+                1.334751665586765
+              ],
+              [
+                103.79517941323337,
+                1.3346581566088531
+              ],
+              [
+                103.79515602964472,
+                1.3346432801804156
+              ],
+              [
+                103.79519216791772,
+                1.334575273649321
+              ],
+              [
+                103.79521342572616,
+                1.3345880248737245
+              ],
+              [
+                103.79524318665699,
+                1.3345051419109524
+              ],
+              [
+                103.79518366479363,
+                1.3344711386441048
+              ],
+              [
+                103.79523893509491,
+                1.334341501182351
+              ],
+              [
+                103.79544088427002,
+                1.3344350101714326
+              ],
+              [
+                103.79526657024559,
+                1.3348154217056134
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 133
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Coronation Grove"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.8023003304063,
+                1.322925011033604
+              ],
+              [
+                103.80204797858886,
+                1.3228380163575224
+              ],
+              [
+                103.80210671565027,
+                1.3226770761991702
+              ],
+              [
+                103.80235689202163,
+                1.3227553714128675
+              ],
+              [
+                103.8023003304063,
+                1.322925011033604
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 134
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Soo's Nursing Home"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.79498787672088,
+                1.3290898684323196
+              ],
+              [
+                103.79484448173832,
+                1.3291484224555603
+              ],
+              [
+                103.794783892309,
+                1.3289727603808927
+              ],
+              [
+                103.79492728729156,
+                1.3289202636666033
+              ],
+              [
+                103.79498787672088,
+                1.3290898684323196
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 135
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Duchess Manor"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.80779068010509,
+                1.3244732713009881
+              ],
+              [
+                103.80734150073238,
+                1.3247662404945544
+              ],
+              [
+                103.80689712541573,
+                1.3245957420340346
+              ],
+              [
+                103.80693795990561,
+                1.3244780740754436
+              ],
+              [
+                103.8070052167094,
+                1.3245068907190642
+              ],
+              [
+                103.80701722685336,
+                1.3244564615923053
+              ],
+              [
+                103.80729346015647,
+                1.32455972123104
+              ],
+              [
+                103.80768258881136,
+                1.3243051742077228
+              ],
+              [
+                103.80779068010509,
+                1.3244732713009881
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 136
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Dunearn 386"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.81163299690462,
+                1.3249275478074622
+              ],
+              [
+                103.81153664560185,
+                1.3248988191370614
+              ],
+              [
+                103.81156369158163,
+                1.324788974216105
+              ],
+              [
+                103.81166680437872,
+                1.3248075633568135
+              ],
+              [
+                103.81163299690462,
+                1.3249275478074622
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 137
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Adam Road"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.81170399607419,
+                1.3268084253758303
+              ],
+              [
+                103.81146227262985,
+                1.326428193229816
+              ],
+              [
+                103.81158397953794,
+                1.326347077032068
+              ],
+              [
+                103.81164145224551,
+                1.3264417125960648
+              ],
+              [
+                103.8116938538306,
+                1.3264062242593013
+              ],
+              [
+                103.81188486606311,
+                1.3266901309363845
+              ],
+              [
+                103.81170399607419,
+                1.3268084253758303
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 138
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Dunearn Lodge"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.81052247146596,
+                1.3251596267322299
+              ],
+              [
+                103.81040752605071,
+                1.3252103243809614
+              ],
+              [
+                103.81027398652594,
+                1.3249399369085921
+              ],
+              [
+                103.81039907418318,
+                1.3248841694890103
+              ],
+              [
+                103.81052247146596,
+                1.3251596267322299
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 139
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "402A"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.81096873012433,
+                1.3246492699028636
+              ],
+              [
+                103.8108977344267,
+                1.3246915179520187
+              ],
+              [
+                103.8108351905995,
+                1.3245782931774244
+              ],
+              [
+                103.81089942480133,
+                1.3245394249708937
+              ],
+              [
+                103.81096873012433,
+                1.3246492699028636
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 140
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Dunearn Suites"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.81085547508366,
+                1.3247439055317471
+              ],
+              [
+                103.81075743340767,
+                1.3248131923311206
+              ],
+              [
+                103.81066108210484,
+                1.3246712388889819
+              ],
+              [
+                103.81074898153872,
+                1.324607021852998
+              ],
+              [
+                103.81085547508366,
+                1.3247439055317471
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 141
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "SPC Shell"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.81754445255154,
+                1.323466129587061
+              ],
+              [
+                103.81730517502632,
+                1.3234952512546698
+              ],
+              [
+                103.81728644895787,
+                1.323295559816657
+              ],
+              [
+                103.81753196850713,
+                1.3232747586237679
+              ],
+              [
+                103.81754445255154,
+                1.323466129587061
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 142
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Choices"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.81946185785745,
+                1.3232373919316842
+              ],
+              [
+                103.81927225927217,
+                1.323293853044774
+              ],
+              [
+                103.81927225927217,
+                1.3232898201077319
+              ],
+              [
+                103.81921578309851,
+                1.3230478439011222
+              ],
+              [
+                103.81940538168203,
+                1.3230236462789975
+              ],
+              [
+                103.81946185785745,
+                1.3232373919316842
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 143
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Masjid Ba'alwie"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.82277931790134,
+                1.320825627635159
+              ],
+              [
+                103.8225503028637,
+                1.3209048810056316
+              ],
+              [
+                103.82253709045818,
+                1.3208498439431224
+              ],
+              [
+                103.8224798367001,
+                1.320871858768129
+              ],
+              [
+                103.8224798367001,
+                1.3208916721110597
+              ],
+              [
+                103.82243579534577,
+                1.3209158884183836
+              ],
+              [
+                103.82233009609769,
+                1.320605479368993
+              ],
+              [
+                103.82275949929118,
+                1.3204601815024688
+              ],
+              [
+                103.8227749137655,
+                1.3205086141262399
+              ],
+              [
+                103.82267582072018,
+                1.3205372334024474
+              ],
+              [
+                103.82269784139731,
+                1.320605479368993
+              ],
+              [
+                103.82266040624762,
+                1.3206230912311128
+              ],
+              [
+                103.82271325587169,
+                1.3207793965004981
+              ],
+              [
+                103.82276390342696,
+                1.3207529787098906
+              ],
+              [
+                103.82277931790134,
+                1.320825627635159
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 144
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "The Legacy"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.8227661049105,
+                1.3210325672349228
+              ],
+              [
+                103.82253708987287,
+                1.321116223563834
+              ],
+              [
+                103.82250846299291,
+                1.3210259627879282
+              ],
+              [
+                103.82273968009747,
+                1.320951112385785
+              ],
+              [
+                103.8227661049105,
+                1.3210325672349228
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 145
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Signature at Lewis"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.82334366005801,
+                1.3208700505231832
+              ],
+              [
+                103.82310906071041,
+                1.3209492067615685
+              ],
+              [
+                103.82306800582376,
+                1.3208143479828323
+              ],
+              [
+                103.8233011389259,
+                1.3207425210198238
+              ],
+              [
+                103.82334366005801,
+                1.3208700505231832
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 146
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "D'Dalvey"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.82183816211511,
+                1.3213261308310962
+              ],
+              [
+                103.82176338357283,
+                1.3213583796636499
+              ],
+              [
+                103.82173112616272,
+                1.321283621005179
+              ],
+              [
+                103.82170619998232,
+                1.321290950285686
+              ],
+              [
+                103.8217149974576,
+                1.321323199118666
+              ],
+              [
+                103.82169153752272,
+                1.321327596686686
+              ],
+              [
+                103.82168567253962,
+                1.3213041429897885
+              ],
+              [
+                103.8216578138659,
+                1.3213100064134267
+              ],
+              [
+                103.82168713878514,
+                1.3213657089439153
+              ],
+              [
+                103.82160063027533,
+                1.3213979577759716
+              ],
+              [
+                103.8214847968477,
+                1.3210857304280808
+              ],
+              [
+                103.82156250788216,
+                1.3210549474477489
+              ],
+              [
+                103.82159036655469,
+                1.3211194451207007
+              ],
+              [
+                103.82160502901303,
+                1.3211135816953998
+              ],
+              [
+                103.82159329904556,
+                1.3210622767289664
+              ],
+              [
+                103.82161382648826,
+                1.3210549474477489
+              ],
+              [
+                103.82163435393221,
+                1.3211106499827423
+              ],
+              [
+                103.8216578138659,
+                1.321097457277574
+              ],
+              [
+                103.82164315140744,
+                1.3210476181665314
+              ],
+              [
+                103.8217252611783,
+                1.3210153693299702
+              ],
+              [
+                103.82183816211511,
+                1.3213261308310962
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 147
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "42 College Green Hostel"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.81587544211499,
+                1.3239916254738375
+              ],
+              [
+                103.81579530683484,
+                1.324008792734432
+              ],
+              [
+                103.8157752730151,
+                1.3239115115868287
+              ],
+              [
+                103.81585683928188,
+                1.3238900525102082
+              ],
+              [
+                103.81587544211499,
+                1.3239916254738375
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 148
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Cluny Court"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              [
+                103.81401308135759,
+                1.322529482964697
+              ],
+              [
+                103.81441587878311,
+                1.3224557509685724
+              ],
+              [
+                103.81444991800277,
+                1.32248789055717
+              ],
+              [
+                103.81451232323758,
+                1.3224746566092591
+              ],
+              [
+                103.81454068925427,
+                1.3226826186417355
+              ],
+              [
+                103.81451988750933,
+                1.3227185393546677
+              ],
+              [
+                103.8144801750866,
+                1.3227601317582867
+              ],
+              [
+                103.81409061513426,
+                1.3228206297992955
+              ],
+              [
+                103.81408115979548,
+                1.3227015242798643
+              ],
+              [
+                103.81404144737269,
+                1.3227015242798643
+              ],
+              [
+                103.81401308135759,
+                1.322529482964697
+              ]
+            ]
+          ],
+          "type": "Polygon"
+        },
+        "id": 149
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bukit Timah Rd"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.82499931045857,
+              1.3206982312322424
+            ],
+            [
+              103.81922593180991,
+              1.3223446864550397
+            ],
+            [
+              103.81391516362851,
+              1.3230291675182002
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 150
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Dunearn Road"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.82393427244347,
+              1.321557483087517
+            ],
+            [
+              103.81920260539079,
+              1.3228733357908737
+            ],
+            [
+              103.81548724710666,
+              1.3231564938760556
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 151
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pan Island Expressway"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.82565026542125,
+              1.327137332159225
+            ],
+            [
+              103.823717612682,
+              1.3289195588530305
+            ],
+            [
+              103.8173198656815,
+              1.3320842572897078
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 152
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Dunearn Underpass"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.81062031191459,
+              1.3242981857626432
+            ],
+            [
+              103.81145854078676,
+              1.3237395157125462
+            ],
+            [
+              103.81308510395394,
+              1.3235000856537908
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 153
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Shelford Road"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.81171664760802,
+              1.3252179135550932
+            ],
+            [
+              103.8117885252314,
+              1.3248137100361816
+            ],
+            [
+              103.81194126518,
+              1.324777780831056
+            ],
+            [
+              103.81248034735307,
+              1.3250382675544898
+            ],
+            [
+              103.8126420720036,
+              1.3247598162283225
+            ],
+            [
+              103.81231862270056,
+              1.325541276324003
+            ],
+            [
+              103.81248933205501,
+              1.3278407436791184
+            ],
+            [
+              103.81177055582555,
+              1.3288377776876814
+            ],
+            [
+              103.81111467251742,
+              1.32828087585834
+            ],
+            [
+              103.81101584078442,
+              1.3281641061042961
+            ],
+            [
+              103.81081817732218,
+              1.3276521155780756
+            ],
+            [
+              103.81080020791632,
+              1.3275892395408562
+            ],
+            [
+              103.81115061132908,
+              1.327463487462623
+            ],
+            [
+              103.81157289236324,
+              1.3275712749585011
+            ],
+            [
+              103.81108771840775,
+              1.3274724697541984
+            ],
+            [
+              103.81080020791632,
+              1.3275533103760608
+            ],
+            [
+              103.8107013761852,
+              1.3274545051710334
+            ],
+            [
+              103.80981189060134,
+              1.327777867646759
+            ],
+            [
+              103.81068340677939,
+              1.3274545051710334
+            ],
+            [
+              103.80983884470908,
+              1.3251191082567715
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 154
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Watten Rise"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.80754117913557,
+              1.329779525536182
+            ],
+            [
+              103.80798610412603,
+              1.329569253996283
+            ],
+            [
+              103.8092885209112,
+              1.328647293952784
+            ],
+            [
+              103.80959592363075,
+              1.3285421581368553
+            ],
+            [
+              103.81000040089395,
+              1.328420847574293
+            ],
+            [
+              103.81080126587409,
+              1.328056915850155
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 155
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Watten Close"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.80822700799217,
+              1.3280691235103887
+            ],
+            [
+              103.80935545577233,
+              1.327257107173196
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 156
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Watten Terrace"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.80730936913898,
+              1.327381079149717
+            ],
+            [
+              103.80759458121531,
+              1.3277901866298265
+            ],
+            [
+              103.80910744527137,
+              1.3266930345975538
+            ],
+            [
+              103.80760078147716,
+              1.3278149810205377
+            ],
+            [
+              103.80793559565399,
+              1.328292272991419
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 157
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Watten Park"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.80682625260204,
+              1.3276320916146602
+            ],
+            [
+              103.80883271442804,
+              1.3262123738779366
+            ],
+            [
+              103.80883271442804,
+              1.3262169536133825
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 158
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Watten Drive"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.80651170679943,
+              1.327240843334991
+            ],
+            [
+              103.80773788458566,
+              1.3290058615370839
+            ],
+            [
+              103.80830772654502,
+              1.3286498060938072
+            ],
+            [
+              103.80775314820903,
+              1.3290414670793353
+            ],
+            [
+              103.80839930828768,
+              1.3299417784587462
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 159
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Watten Estate Road"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.80863511171873,
+              1.3257719169905329
+            ],
+            [
+              103.80917442642902,
+              1.3266824025823212
+            ],
+            [
+              103.80940338078693,
+              1.3272164861536169
+            ],
+            [
+              103.80929144754555,
+              1.32803032756415
+            ],
+            [
+              103.80927618248808,
+              1.3284016425835006
+            ],
+            [
+              103.80956619134179,
+              1.3289815043376763
+            ],
+            [
+              103.80969847608179,
+              1.3292358296257873
+            ],
+            [
+              103.80990199106799,
+              1.3295359334317993
+            ],
+            [
+              103.81014620795281,
+              1.330288738565173
+            ],
+            [
+              103.81026322906934,
+              1.3304260741502816
+            ],
+            [
+              103.81075166503206,
+              1.331133097972966
+            ],
+            [
+              103.81076184078245,
+              1.3314026825420768
+            ],
+            [
+              103.81071096203482,
+              1.3315705370695952
+            ],
+            [
+              103.81062955604244,
+              1.3316570075795795
+            ],
+            [
+              103.81053797429752,
+              1.3317282185860364
+            ],
+            [
+              103.81031919569,
+              1.3318197755911854
+            ],
+            [
+              103.81023270182038,
+              1.331840121591867
+            ],
+            [
+              103.8108737720043,
+              1.332033408431741
+            ],
+            [
+              103.81014111805808,
+              1.3318299484342475
+            ],
+            [
+              103.80960180334773,
+              1.3317841699317512
+            ],
+            [
+              103.80903704926362,
+              1.3319164189351795
+            ],
+            [
+              103.8087826555319,
+              1.3319469379338784
+            ],
+            [
+              103.80833492256431,
+              1.3319876299330247
+            ],
+            [
+              103.8081721105753,
+              1.3320079759323278
+            ],
+            [
+              103.80799912283805,
+              1.3321046194261896
+            ],
+            [
+              103.80800929858844,
+              1.3321046194261896
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 160
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Park Vale"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.81024346453898,
+              1.330055252962154
+            ],
+            [
+              103.81061487938729,
+              1.3300450799544876
+            ],
+            [
+              103.81129156671278,
+              1.3302841456235655
+            ],
+            [
+              103.81139841208108,
+              1.3303655296749213
+            ],
+            [
+              103.8114187635797,
+              1.3304570867307461
+            ],
+            [
+              103.8114085878293,
+              1.3310318614996959
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 161
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Watten View"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.80991275421673,
+              1.3296839384588566
+            ],
+            [
+              103.80897658528431,
+              1.3300908587911522
+            ],
+            [
+              103.80880359754713,
+              1.3302892324293083
+            ],
+            [
+              103.80872727942773,
+              1.3304621735361195
+            ],
+            [
+              103.8087527188016,
+              1.3307164986706823
+            ],
+            [
+              103.80883921267127,
+              1.3308945262501766
+            ],
+            [
+              103.80897658528431,
+              1.3309708237800493
+            ],
+            [
+              103.8091851881457,
+              1.3310216887989839
+            ],
+            [
+              103.80984661184783,
+              1.3310827268203127
+            ],
+            [
+              103.81006030258226,
+              1.3312505813695878
+            ],
+            [
+              103.81016714794845,
+              1.3314031764059422
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 162
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Watten Heights"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.8084270943927,
+              1.3314286064771323
+            ],
+            [
+              103.80806585529484,
+              1.3308385722934588
+            ],
+            [
+              103.80803024017274,
+              1.330599506679249
+            ],
+            [
+              103.80804041592103,
+              1.3303706140470979
+            ],
+            [
+              103.80815234916452,
+              1.3301874999267227
+            ],
+            [
+              103.80960239343341,
+              1.3291345934707266
+            ],
+            [
+              103.8097804690459,
+              1.329027776848605
+            ],
+            [
+              103.81015188389415,
+              1.328931133234235
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 163
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Dunearn Close"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.81475433435685,
+              1.3234229706898333
+            ],
+            [
+              103.81487135547337,
+              1.3243283706300701
+            ],
+            [
+              103.8142760741402,
+              1.3244046683625612
+            ],
+            [
+              103.81378763817753,
+              1.3245826963966039
+            ],
+            [
+              103.8142760741402,
+              1.3244250144242926
+            ],
+            [
+              103.8148764433464,
+              1.324338543661213
+            ],
+            [
+              103.81496293721608,
+              1.3253711061054219
+            ],
+            [
+              103.81416922877406,
+              1.3254372307791726
+            ],
+            [
+              103.81496802509128,
+              1.3253914521592662
+            ],
+            [
+              103.81502399171194,
+              1.325961141594746
+            ],
+            [
+              103.81495784934094,
+              1.3260120067167804
+            ],
+            [
+              103.81417940452229,
+              1.3260730448619427
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 164
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Adam Green"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.81353326041824,
+              1.3249387543579019
+            ],
+            [
+              103.81299903358308,
+              1.3250048790431634
+            ],
+            [
+              103.81293797908722,
+              1.32504048464196
+            ],
+            [
+              103.81279551859683,
+              1.325065917213081
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 165
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "College Green"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.81712323148821,
+              1.3243120835879267
+            ],
+            [
+              103.81537145898403,
+              1.3245098115183822
+            ],
+            [
+              103.81527539404033,
+              1.3238714327157481
+            ],
+            [
+              103.81496459569291,
+              1.3241256543819446
+            ],
+            [
+              103.81536298266576,
+              1.3237725687270654
+            ],
+            [
+              103.81593654688811,
+              1.3237019515905075
+            ],
+            [
+              103.81587721265873,
+              1.3232669499814023
+            ],
+            [
+              103.81602413551349,
+              1.3244165969239816
+            ],
+            [
+              103.81595632496459,
+              1.3237047762751644
+            ],
+            [
+              103.817021515666,
+              1.3235974382231461
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 166
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Bukit Timah Road"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.81288561367768,
+              1.3231289267363877
+            ],
+            [
+              103.81138127923435,
+              1.3233651466220806
+            ],
+            [
+              103.8076165050789,
+              1.3258926979860064
+            ],
+            [
+              103.80352093886529,
+              1.3286958348152496
+            ],
+            [
+              103.80169368376505,
+              1.3294123681638723
+            ],
+            [
+              103.79471250501848,
+              1.3318667673043336
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 167
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Dunearn Road"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.81293879448526,
+              1.323963391129297
+            ],
+            [
+              103.81226977071003,
+              1.3239957546040273
+            ],
+            [
+              103.8108561882155,
+              1.3243193893384841
+            ],
+            [
+              103.81006846667174,
+              1.3247185387852483
+            ],
+            [
+              103.80563348831845,
+              1.3277283505855024
+            ],
+            [
+              103.80361562628315,
+              1.3290444629211038
+            ],
+            [
+              103.8028710675639,
+              1.3293680969939743
+            ],
+            [
+              103.79481042970679,
+              1.3321945029977371
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 168
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Tam Kim Cheng Road"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.81262469635692,
+              1.3228085428244043
+            ],
+            [
+              103.81253725583133,
+              1.322235474295823
+            ],
+            [
+              103.81133251969379,
+              1.3208465110420349
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 169
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Lutheran Road"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.80947179878376,
+              1.3223937726233714
+            ],
+            [
+              103.81156289470886,
+              1.3204946931574568
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 170
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Duke's Road"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.81079167196151,
+              1.3213019318954622
+            ],
+            [
+              103.81239104978562,
+              1.3230664711473423
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 171
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Queen's Road"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.81028960190139,
+              1.3217159001607257
+            ],
+            [
+              103.81159912484333,
+              1.3231492647464478
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 172
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "King's Road"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.81111258292196,
+              1.3233614234320328
+            ],
+            [
+              103.80994798741892,
+              1.3220367256178065
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 173
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Prince's Road"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.80873006977151,
+              1.3217149305783806
+            ],
+            [
+              103.81060282257147,
+              1.3200778833624867
+            ],
+            [
+              103.81059341175438,
+              1.3199932084766886
+            ],
+            [
+              103.80987818957806,
+              1.3196827338727672
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 174
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Coronation Walk"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.80885924228159,
+              1.322893032994557
+            ],
+            [
+              103.80978925313912,
+              1.324279120970985
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 175
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Coronation Road"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.8105937417277,
+              1.3237258272778973
+            ],
+            [
+              103.8100745332128,
+              1.3230185230645048
+            ],
+            [
+              103.80872801442626,
+              1.3217693320663813
+            ],
+            [
+              103.80694216535716,
+              1.3217978524154148
+            ],
+            [
+              103.80608062155704,
+              1.3216039140329343
+            ],
+            [
+              103.80557282589893,
+              1.3216267301127544
+            ],
+            [
+              103.80478545474347,
+              1.3205087320927902
+            ],
+            [
+              103.80554429795899,
+              1.3216438423229278
+            ],
+            [
+              103.80456293680902,
+              1.322693391020067
+            ],
+            [
+              103.80402139225026,
+              1.3228231307099207
+            ],
+            [
+              103.80412979842367,
+              1.323387833327942
+            ],
+            [
+              103.80398715872161,
+              1.3228231307099207
+            ],
+            [
+              103.80353071167525,
+              1.3229143957874925
+            ],
+            [
+              103.80221272082872,
+              1.3224979988412855
+            ],
+            [
+              103.80096890198251,
+              1.3226120798615142
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 176
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Coronation Drive"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.80409497741738,
+              1.323589995243836
+            ],
+            [
+              103.80601205501233,
+              1.3229625479339404
+            ],
+            [
+              103.80577812590172,
+              1.3223579167386958
+            ],
+            [
+              103.80538444032402,
+              1.3219301115599649
+            ],
+            [
+              103.80578953707794,
+              1.3223465086014414
+            ],
+            [
+              103.8060234661886,
+              1.3229568438661374
+            ],
+            [
+              103.8067309591105,
+              1.3227172730324952
+            ],
+            [
+              103.80673666469914,
+              1.3227172730324952
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 177
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Duchess Road"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.80610904461906,
+              1.3217076540374677
+            ],
+            [
+              103.80849949657681,
+              1.3252326451420373
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 178
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Prince of Wales Road"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.80912598002703,
+              1.3248460293598896
+            ],
+            [
+              103.80890538305624,
+              1.3245204732436378
+            ],
+            [
+              103.8094446200945,
+              1.3241389074198366
+            ],
+            [
+              103.80824008919859,
+              1.3223886063083796
+            ],
+            [
+              103.80867778159887,
+              1.3229697069407536
+            ],
+            [
+              103.80811753532606,
+              1.3233337699190457
+            ],
+            [
+              103.80751527058248,
+              1.323760843728877
+            ],
+            [
+              103.80812453840525,
+              1.3233442717346122
+            ],
+            [
+              103.8088844150036,
+              1.3245133383053087
+            ],
+            [
+              103.80717916765315,
+              1.3218773847278698
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 179
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Camden Park"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.81421890884087,
+              1.3283579188483685
+            ],
+            [
+              103.81437198808857,
+              1.328398729009038
+            ],
+            [
+              103.81511697375021,
+              1.3297760715662719
+            ],
+            [
+              103.81536190054481,
+              1.3301637678507774
+            ],
+            [
+              103.8157905224333,
+              1.3300923501184059
+            ],
+            [
+              103.81612729677272,
+              1.3303168058409085
+            ],
+            [
+              103.81585175413198,
+              1.3300515399846233
+            ],
+            [
+              103.81638242884935,
+              1.3297760715662719
+            ],
+            [
+              103.81578031714906,
+              1.3301025526517236
+            ],
+            [
+              103.81538231111108,
+              1.330143362784682
+            ],
+            [
+              103.815096563184,
+              1.3296944512875797
+            ],
+            [
+              103.8165763292273,
+              1.3289292610483017
+            ],
+            [
+              103.81603544922575,
+              1.32915371687659
+            ],
+            [
+              103.81511697375021,
+              1.3276539434553456
+            ],
+            [
+              103.81488225223973,
+              1.3276539434553456
+            ],
+            [
+              103.81461691488107,
+              1.3277559688875158
+            ],
+            [
+              103.81491286809018,
+              1.3282967036044937
+            ],
+            [
+              103.81516800016686,
+              1.3282865010636726
+            ],
+            [
+              103.81487204695776,
+              1.3283171086859653
+            ],
+            [
+              103.81458629903278,
+              1.3278069816009719
+            ],
+            [
+              103.81413726657814,
+              1.3279906273634197
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 180
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Adam Park"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.81400459991119,
+              1.3288170313794723
+            ],
+            [
+              103.81396377877871,
+              1.328949664376978
+            ],
+            [
+              103.81412706330849,
+              1.329214930351668
+            ],
+            [
+              103.8141168580243,
+              1.3295312089757232
+            ],
+            [
+              103.81372905726835,
+              1.3302759939643778
+            ],
+            [
+              103.81373926255247,
+              1.3310921964327491
+            ],
+            [
+              103.81343310405924,
+              1.331551310202741
+            ],
+            [
+              103.81219826481043,
+              1.3319492087339455
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 181
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Arcadia Road"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.81503073142062,
+              1.3304452586649091
+            ],
+            [
+              103.81428265046122,
+              1.3321449837285257
+            ],
+            [
+              103.81359124230204,
+              1.3328815308925783
+            ],
+            [
+              103.81016820518624,
+              1.3346605746713323
+            ],
+            [
+              103.80941431292615,
+              1.335331633460953
+            ],
+            [
+              103.80881904708303,
+              1.3362428865751639
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 182
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Cluny Park Road"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.81491549343275,
+              1.3157645175313917
+            ],
+            [
+              103.81517175077187,
+              1.3165219480439845
+            ],
+            [
+              103.81537787080464,
+              1.3171457141771867
+            ],
+            [
+              103.81523859579471,
+              1.3184767868742426
+            ],
+            [
+              103.81482635572792,
+              1.3192954792484386
+            ],
+            [
+              103.81419685466602,
+              1.3204594680958337
+            ],
+            [
+              103.81427484603046,
+              1.3210108319377127
+            ],
+            [
+              103.81424683012506,
+              1.3210824149506237
+            ],
+            [
+              103.81429559582585,
+              1.321149918743302
+            ],
+            [
+              103.81463318335972,
+              1.3226950234481194
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 183
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Kembang Melati"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.81309703566927,
+              1.3216173142650405
+            ],
+            [
+              103.81355428046095,
+              1.3212395717497003
+            ],
+            [
+              103.81366106217769,
+              1.3216720595526255
+            ],
+            [
+              103.81356797042508,
+              1.321225885426415
+            ],
+            [
+              103.81366653816377,
+              1.3211465047445046
+            ],
+            [
+              103.81420592273815,
+              1.3210643867959533
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 184
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Farrer Road"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.81318210873707,
+              1.3215100354263
+            ],
+            [
+              103.81158102224225,
+              1.3197900447339492
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 185
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Harom Serangkai"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.81163655006566,
+              1.3190355448601565
+            ],
+            [
+              103.81193672235815,
+              1.3193134085037173
+            ],
+            [
+              103.81212942555908,
+              1.3193838006216794
+            ],
+            [
+              103.81222948298836,
+              1.3194245539521035
+            ],
+            [
+              103.81229248211207,
+              1.319617206051447
+            ],
+            [
+              103.81365622329281,
+              1.3211287862006316
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 186
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Kingsmead Road"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.80409462789868,
+              1.3187110139623854
+            ],
+            [
+              103.80449690700402,
+              1.3191268969168561
+            ],
+            [
+              103.80525575167877,
+              1.3202237307471592
+            ],
+            [
+              103.80589573404802,
+              1.3210234349040206
+            ],
+            [
+              103.80607858818763,
+              1.3215672813242492
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 187
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Victoria Park Road"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.80205528052915,
+              1.3224686062980453
+            ],
+            [
+              103.80180842744153,
+              1.3222218189510784
+            ],
+            [
+              103.80160271653591,
+              1.3217145337733456
+            ],
+            [
+              103.80178099932158,
+              1.321303221390167
+            ],
+            [
+              103.80194556804537,
+              1.3210015922654605
+            ],
+            [
+              103.80253070129032,
+              1.320809646440111
+            ],
+            [
+              103.80303355017156,
+              1.3209010492164026
+            ],
+            [
+              103.80359125529452,
+              1.320965031157769
+            ],
+            [
+              103.80384267329896,
+              1.3208416359311315
+            ],
+            [
+              103.80407581232657,
+              1.320585708143824
+            ],
+            [
+              103.80419009616236,
+              1.320124124033029
+            ],
+            [
+              103.80415352533441,
+              1.3197539426550406
+            ],
+            [
+              103.80403009864625,
+              1.3188444847940275
+            ],
+            [
+              103.80404381270813,
+              1.3187210909437113
+            ],
+            [
+              103.80425866631987,
+              1.3183600496427772
+            ],
+            [
+              103.8042586616977,
+              1.3181498245210435
+            ],
+            [
+              103.80418094868787,
+              1.317953308330999
+            ],
+            [
+              103.80415352056787,
+              1.3178116338598898
+            ],
+            [
+              103.80456494237916,
+              1.3170301390473327
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 188
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Hillcrest Road"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.80840188897758,
+              1.3368411210434772
+            ],
+            [
+              103.80813014509386,
+              1.336203287237126
+            ],
+            [
+              103.8077756965506,
+              1.3356245119746717
+            ],
+            [
+              103.8077638815991,
+              1.3351756657584843
+            ],
+            [
+              103.80822466470596,
+              1.3336991973633872
+            ],
+            [
+              103.8081892198515,
+              1.3330141157274369
+            ],
+            [
+              103.80813014509386,
+              1.332624327814088
+            ],
+            [
+              103.80801199557988,
+              1.3321754810506121
+            ],
+            [
+              103.80737398430887,
+              1.3305454608460678
+            ],
+            [
+              103.80746850391978,
+              1.3297186370994183
+            ],
+            [
+              103.8059913733386,
+              1.327711964496686
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 189
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Greenwood Avenue"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.80487711271144,
+              1.3373137167471612
+            ],
+            [
+              103.80506754688571,
+              1.3365767528793384
+            ],
+            [
+              103.80519655067974,
+              1.3352133691402344
+            ],
+            [
+              103.80511680021135,
+              1.3335797687079207
+            ],
+            [
+              103.80544852425675,
+              1.3326217141817267
+            ],
+            [
+              103.80730985640258,
+              1.3306073401756322
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 190
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Greendale Avenue"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.80581954988759,
+              1.3322813916977907
+            ],
+            [
+              103.80596130859493,
+              1.3324267459362744
+            ],
+            [
+              103.80604490988469,
+              1.332412210512743
+            ],
+            [
+              103.80638658472174,
+              1.3320669941804653
+            ],
+            [
+              103.80617576407792,
+              1.3318671320705278
+            ],
+            [
+              103.80641202859226,
+              1.3320488248979672
+            ],
+            [
+              103.80674279891207,
+              1.331914372207578
+            ],
+            [
+              103.80740433955162,
+              1.331761750225155
+            ],
+            [
+              103.80773147503385,
+              1.3316454668030673
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 191
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Greenmead Avenue"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.80596909416039,
+              1.3368862996327238
+            ],
+            [
+              103.80606593833102,
+              1.3362452988773867
+            ],
+            [
+              103.80658689318324,
+              1.3355642353899384
+            ],
+            [
+              103.80781916397228,
+              1.3324193406747753
+            ],
+            [
+              103.80789931087304,
+              1.3323058299303199
+            ],
+            [
+              103.80796943941158,
+              1.332265767313146
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 192
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Greenwood Lane"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.80512019722107,
+              1.3365428159620478
+            ],
+            [
+              103.8059684185825,
+              1.3366529879665023
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 193
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sunset Avenue"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.8027068599489,
+              1.3371181861225097
+            ],
+            [
+              103.80278072822551,
+              1.336628102810991
+            ],
+            [
+              103.80296875656796,
+              1.3361850137062987
+            ],
+            [
+              103.8032642296746,
+              1.334627487733087
+            ],
+            [
+              103.80512436719567,
+              1.334627487733087
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 194
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Pine Walk"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.80212436637947,
+              1.3358260219871596
+            ],
+            [
+              103.80299682824796,
+              1.3358260219871596
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 195
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jalan Naga Sari"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.7990105904027,
+              1.3314132858835848
+            ],
+            [
+              103.79970435195781,
+              1.331165964819192
+            ],
+            [
+              103.7995268780723,
+              1.3305960509685093
+            ],
+            [
+              103.79973124194129,
+              1.3311713413649073
+            ],
+            [
+              103.80118867900757,
+              1.3307681004466474
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 196
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Linden Drive"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.80089288283995,
+              1.3301067864328786
+            ],
+            [
+              103.80138228052607,
+              1.330999293147542
+            ],
+            [
+              103.80161353437853,
+              1.3314885587410146
+            ],
+            [
+              103.80289349755941,
+              1.3310046696936269
+            ],
+            [
+              103.80162966836775,
+              1.3315261945514152
+            ],
+            [
+              103.80180176425836,
+              1.3318810464531339
+            ],
+            [
+              103.80181789824752,
+              1.3322358983048304
+            ],
+            [
+              103.8015812664002,
+              1.3322358983048304
+            ],
+            [
+              103.80122094062978,
+              1.3324724661771938
+            ],
+            [
+              103.80160815638135,
+              1.3322574044760813
+            ],
+            [
+              103.80185016622818,
+              1.3322412748470782
+            ],
+            [
+              103.80192545469987,
+              1.3326767738719099
+            ],
+            [
+              103.80211368457742,
+              1.3331122737224916
+            ],
+            [
+              103.80226964647886,
+              1.333370347672215
+            ],
+            [
+              103.80195234468107,
+              1.333735952387329
+            ],
+            [
+              103.8017856248311,
+              1.3343489818173282
+            ],
+            [
+              103.80180175673217,
+              1.3347252375668717
+            ],
+            [
+              103.80200074260625,
+              1.3353166566063948
+            ],
+            [
+              103.8021029245408,
+              1.3356822610333126
+            ],
+            [
+              103.80207603156254,
+              1.3361930315519146
+            ],
+            [
+              103.80228577342643,
+              1.3368005798373304
+            ],
+            [
+              103.80229115142356,
+              1.3370801595289805
+            ],
+            [
+              103.80213518704414,
+              1.3373812435478385
+            ],
+            [
+              103.80187704321048,
+              1.3375371629583555
+            ],
+            [
+              103.80165116735515,
+              1.337547916020796
+            ],
+            [
+              103.8005002760923,
+              1.3368382138002488
+            ],
+            [
+              103.80036044818229,
+              1.3371339230834707
+            ],
+            [
+              103.80093589381147,
+              1.3375317864265241
+            ],
+            [
+              103.80037120417438,
+              1.3371392996150178
+            ],
+            [
+              103.80047338610882,
+              1.3368220842013159
+            ],
+            [
+              103.80013995032186,
+              1.3365263748805347
+            ],
+            [
+              103.80017759629737,
+              1.3364564799451273
+            ],
+            [
+              103.80077993191225,
+              1.336348949271681
+            ],
+            [
+              103.80112412369124,
+              1.336381208473398
+            ],
+            [
+              103.80216207702762,
+              1.3368704729967078
+            ],
+            [
+              103.8022535029678,
+              1.3368489668657872
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 197
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Vanda Road"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.7984781528404,
+              1.3309777997071706
+            ],
+            [
+              103.79864487073161,
+              1.3323111826441618
+            ],
+            [
+              103.79894603854024,
+              1.3324563492914905
+            ],
+            [
+              103.80077992820264,
+              1.3338811311113403
+            ],
+            [
+              103.80192006347124,
+              1.3337359645479836
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 198
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Vanda Avenue"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.80079477508815,
+              1.3339288742859452
+            ],
+            [
+              103.80134333073613,
+              1.3348805215247666
+            ],
+            [
+              103.80168752251507,
+              1.3353052679141655
+            ],
+            [
+              103.80193491035669,
+              1.3352568790890302
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 199
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Vanda Link"
+        },
+        "geometry": {
+          "coordinates": [
+            [
+              103.79860805504768,
+              1.3322897485061844
+            ],
+            [
+              103.79815213174504,
+              1.3323568818458114
+            ],
+            [
+              103.79723675085347,
+              1.3326501485191216
+            ],
+            [
+              103.79601388680538,
+              1.333116548456431
+            ]
+          ],
+          "type": "LineString"
+        },
+        "id": 200
+      }
+    ]
+  }
